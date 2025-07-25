@@ -37,6 +37,6 @@ Classical encryption logic
 Building command-line tools
 ##🔗 Repository Structure
 SCT_CS_1/
-├── cipher.py
-└── README.md
+- cipher.py
+-  README.md
 
